@@ -23,6 +23,16 @@
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
+      "posts": {
+        "__resolveType": "blog/loaders/BlogpostList.ts",
+        "count": 6
+      }
+    },
+    {
+      "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
       "posts": [
         {
           "name": "collections/blog/posts/dd41f8121185",
@@ -56,8 +66,7 @@
             "title": "Futuro e perspectivas do Tech Desenvolvimento Sustentável",
             "excerpt": "O desenvolvimento sustentável na tecnologia é um conceito crucial para garantir que o avanço tecnológico não apenas atenda às necessidades atuais, mas também preserve e melhore as condições para futuras gerações. Envolve a criação e implementação de soluções tecnológicas que minimizam impactos ambientais, promovem a justiça social e fomentam a eficiência econômica.",
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12135/65e3f26f-9a22-4cd2-bcab-2f63879641a1",
-            "date": "2024-08-06",
-            "slug": "power-of-quotes"
+            "date": "2024-08-06"
           }
         },
         {
@@ -80,16 +89,6 @@
           }
         }
       ]
-    },
-    {
-      "__resolveType": "site/sections/BlogPosts.tsx",
-      "posts": {
-        "__resolveType": "blog/loaders/BlogpostList.ts",
-        "count": 6
-      }
-    },
-    {
-      "__resolveType": "Footer"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

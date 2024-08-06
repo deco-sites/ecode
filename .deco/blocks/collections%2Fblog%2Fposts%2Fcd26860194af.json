@@ -1,6 +1,10 @@
 {
   "post": {
-    "authors": [],
+    "authors": [
+      {
+        "name": "Clara Dantas"
+      }
+    ],
     "categories": [],
     "title": "Futuro e perspectivas do Tech Desenvolvimento Sustentável",
     "excerpt": "O desenvolvimento sustentável na tecnologia é um conceito crucial para garantir que o avanço tecnológico não apenas atenda às necessidades atuais, mas também preserve e melhore as condições para futuras gerações. Envolve a criação e implementação de soluções tecnológicas que minimizam impactos ambientais, promovem a justiça social e fomentam a eficiência econômica.",
