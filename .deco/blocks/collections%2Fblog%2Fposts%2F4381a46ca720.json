@@ -2,8 +2,18 @@
   "name": "collections/blog/posts/4381a46ca720",
   "__resolveType": "blog/loaders/Blogpost.ts",
   "post": {
-    "authors": [{ "name": "Name of the Author", "email": "author@deco.cx" }],
-    "categories": [{ "name": "Performance", "slug": "performance" }],
+    "authors": [
+      {
+        "name": "Name of the Author",
+        "email": "author@deco.cx"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Performance",
+        "slug": "performance"
+      }
+    ],
     "title": " Why Your Website Needs Blazing-Fast Performance",
     "excerpt": "Discover why website speed is crucial for user experience, SEO, and conversions. Learn key concepts aligned with deco.cx's performance philosophy.",
     "slug": "website-performance-deco-guide",
