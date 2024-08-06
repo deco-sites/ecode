@@ -1,0 +1,7 @@
+{
+  "name": "collections/blog/authors/45b0d1913454",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Clara Dantas"
+  }
+}

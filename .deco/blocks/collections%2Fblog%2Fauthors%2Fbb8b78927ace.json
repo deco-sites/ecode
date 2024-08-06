@@ -1,0 +1,7 @@
+{
+  "name": "collections/blog/authors/bb8b78927ace",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Gustavo Lacerda"
+  }
+}

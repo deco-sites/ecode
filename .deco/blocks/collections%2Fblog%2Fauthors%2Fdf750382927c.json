@@ -1,0 +1,7 @@
+{
+  "name": "collections/blog/authors/df750382927c",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Bea Pêssoa"
+  }
+}

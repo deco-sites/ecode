@@ -150,5 +150,17 @@
   "/.deco/blocks/collections%2Fblog%2Fposts%2F173aa7daa089.json": {
     "blockType": "loaders",
     "__resolveType": "blog/loaders/Blogpost.ts"
+  },
+  "/.deco/blocks/collections%2Fblog%2Fauthors%2Fbb8b78927ace.json": {
+    "blockType": "loaders",
+    "__resolveType": "blog/loaders/Author.ts"
+  },
+  "/.deco/blocks/collections%2Fblog%2Fauthors%2F45b0d1913454.json": {
+    "blockType": "loaders",
+    "__resolveType": "blog/loaders/Author.ts"
+  },
+  "/.deco/blocks/collections%2Fblog%2Fauthors%2Fdf750382927c.json": {
+    "blockType": "loaders",
+    "__resolveType": "blog/loaders/Author.ts"
   }
 }

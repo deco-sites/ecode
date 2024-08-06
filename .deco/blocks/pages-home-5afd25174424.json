@@ -7,14 +7,21 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Desenvolvimento Sustentável na tecnologia</p>",
+      "title": "<p>Click here to tweak this text however you want.</p>",
       "description": "This text is entirely editable, tailor it freely."
+    },
+    {
+      "__resolveType": "site/sections/MainPost.tsx",
+      "post": {
+        "__resolveType": "blog/loaders/BlogPostItem.ts",
+        "slug": "why-we-web"
+      }
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
       "posts": {
         "__resolveType": "blog/loaders/BlogpostList.ts",
-        "count": 5
+        "count": 6
       }
     },
     {

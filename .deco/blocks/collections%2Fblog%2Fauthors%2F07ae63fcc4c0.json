@@ -2,7 +2,7 @@
   "name": "collections/blog/authors/07ae63fcc4c0",
   "__resolveType": "blog/loaders/Author.ts",
   "author": {
-    "name": "Name of the Author",
+    "name": "Emyle Santos",
     "email": "author@deco.cx",
     "jobTitle": "Author",
     "company": "deco.cx",
